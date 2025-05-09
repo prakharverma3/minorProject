@@ -1,0 +1,31 @@
+# FastAPI dependencies
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.4.2
+pydantic-settings==2.0.3
+
+# Database
+sqlalchemy==2.0.23
+alembic==1.12.1
+psycopg2-binary==2.9.9  # For PostgreSQL
+pymysql==1.1.0          # For MySQL (alternative)
+
+# Authentication
+python-jose==3.3.0      # JWT tokens
+passlib==1.7.4          # Password hashing
+python-multipart==0.0.6 # Form data parsing
+bcrypt==4.0.1           # Password hashing
+
+# Recommendation model dependencies
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.3.2
+python-dotenv==1.0.0
+
+# Testing
+pytest==7.4.3
+httpx==0.25.1           # Async HTTP client
+
+# CORS
+starlette==0.27.0
+
