@@ -2,7 +2,6 @@
 
 IdeaForge is a web application that enables users to collaborate on research projects and receive intelligent paper recommendations based on project descriptions. The platform helps connect researchers and collaborators with similar interests, fostering innovation and knowledge sharing.
 
-![IdeaForge Logo](logo.png)
 
 ## 🚀 Features
 
